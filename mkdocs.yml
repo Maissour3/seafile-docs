@@ -1,0 +1,11 @@
+site_name: Seafile Cloud Storage & Block-Level Sync Documentation
+site_description: Technical documentation for Seafile: distributed content-addressable block storage, deduplication, and high-throughput media asset synchronization.
+site_url: https://seafile.readthedocs.io/
+theme:
+  name: readthedocs
+
+nav:
+  - Seafile Architecture & Overview: index.md
+  - Block-Level Syncing & Deduplication: block-sync.md
+  - High-Throughput Media Assets & PR Wires: media-asset-wire-protocols.md
+  - Troubleshooting & Storage Diagnostics: troubleshooting.md
